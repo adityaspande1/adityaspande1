@@ -1,5 +1,13 @@
-# 💫 About Me:
-Hello I am Aditya Pande <br>I am pursuing my B.tech in Computer Science And Engineering .<br>I am passionate about web development and  currently learning Machine Learning.
+# 💫 About Me  
+
+Hello! I am **Aditya Pande**, a **B.Tech student in Computer Science and Engineering** with a strong passion for **technology and innovation**.  
+
+I have a keen interest in **web development**, where I explore modern frameworks and tools to build **efficient, scalable, and user-friendly applications**. From frontend design to backend logic, I enjoy crafting seamless digital experiences.  
+
+
+
+I am always eager to expand my knowledge, work on exciting projects, and collaborate with like-minded individuals. 🚀  
+
 
 
 ## 🌐 Socials:
