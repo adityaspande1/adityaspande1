@@ -24,7 +24,7 @@ Always learning, always building, and always improving. 🚀
 
 ---
 
-## 🧠 What I’ve Been Working On (Last 2 Years)
+## 🧠 What I’ve Been Working On
 
 - Building **full-stack web applications** with a strong backend focus  
 - Designing **REST APIs** and async workflows for long-running jobs  
